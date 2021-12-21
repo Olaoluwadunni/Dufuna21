@@ -1,0 +1,16 @@
+Hello there,
+My name is Oluwatimileyin Akinpelu.
+I have switched into tech Nov, 2021
+My skillset are:
+ HTML5,
+ CSS3,
+ Bootstrap, 
+ Sass,
+ tailwind css 
+ JS,
+ VueJS,
+ React.
+I have built lots of projects with the above skillset.
+I am also have a certification for UX design nanodegree course on udacity. I am adapt in the use of research tools like mobbin, Miro, lookback, webAim and a design tool (figma)
+I have taken courses on udacity, pluralsight and participated in training programs and bootcamps to aid my learning curve.
+I am a hardworker and keen on learning new things. My goal is to become world class in my choosen field.
